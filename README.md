@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I am Abhishek Kotangale, Full Stack web developer love to build websites with new technologies and passionate to learn new technologies and implement them into my projects Apart from this I am a competitive programmer and Expert coder at code studio . 🎯<br>#coder
+Hi there 👋<br>I am Abhishek Kotangale, Full Stack web developer love to build websites with new technologies and passionate to learn new technologies and implement them into my projects Apart from this I am a competitive programmer and Expert coder at Coding Ninja. 🎯<br>#coder
 
 
 ## 🌐 Socials:
